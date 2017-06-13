@@ -1,5 +1,5 @@
 {
-    "name": "chumper/datatable",
+    "name": "s1rxploit/laravel-datatable",
     "description": "This is a laravel 4 package for the server and client side of datatables at http://datatables.net/",
     "keywords": [
         "laravel",
@@ -8,12 +8,12 @@
         "jquery"
     ],
     "license": "MIT",
-    "homepage": "http://github.com/Chumper/datatable",
+    "homepage": "http://github.com/s1rxploit/laravel-datatable",
     "authors": [
         {
-            "name": "Nils Plaschke",
-            "email": "github@nilsplaschke.de",
-            "homepage": "http://nilsplaschke.de",
+            "name": "s1rxploit",
+            "email": "s1rxploit@gmail.com",
+            "homepage": "http://github.com/s1rxploit/laravel-datatable",
             "role": "Developer"
         }
     ],
